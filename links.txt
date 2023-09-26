@@ -1,0 +1,23 @@
+https://frontendmasters.com/courses/enterprise-ui-dev/ | 4 Enterprise UI Development | Manage & test large apps at scale | Course by Steve Kinney UI Architect | Frontend Masters
+https://frontendmasters.com/courses/rust-ts-devs/ | 5 Learn Rust for TypeScript Developers | Course by ThePrimeagen | Frontend Masters
+https://frontendmasters.com/courses/algorithms-practice/ | 6 Practical Problem Solving with Algorithms | Apply Algorithms in JavaScript with Kyle Simpson | Frontend Masters
+https://frontendmasters.com/courses/devops/ | 7 DevOps for Developers | Build & Ship Reliable Software with CI/CD Automation and Monitoring | Frontend Masters
+https://frontendmasters.com/courses/background-javascript/ | 8 JavaScript in the Background - Use Service Worker, Web Push, and other APIs to update your web app in the background | Frontend Masters
+https://frontendmasters.com/courses/typescript-go-rust/ | 9 TypeScript, Golang, & Rust Side-by-Side | Learn Polyglot Programming with TypeScript, Go & Rust | Frontend Masters
+https://frontendmasters.com/courses/freelancing/ | 10 Find Clients as a Freelancer | Learn the Process of Finding Clients for Your Freelance Business | Frontend Masters
+https://frontendmasters.com/courses/flutter/ | 11 Flutter & Dart | Learn to Develop Cross-Platform Mobile Apps with Flutter | Frontend Masters
+https://frontendmasters.com/courses/data-visualization/ | 12 Data Visualization | Start Learning Data Visualization | Frontend Masters
+https://frontendmasters.com/courses/web-audio/ | 13 Learn Web Audio Synthesis & Visualization | Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/developer-productivity/ | 14 Increase Your Developer Productivity by Building a Toolchain | FEM | Frontend Masters
+https://frontendmasters.com/courses/web-assembly/ | 15 Web Assembly Introductory Course | WASM | Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/vim-fundamentals/ | 16 VIM Basics Course | An Introduction to VIM | Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/programming-language/ | 17 Make Your Own Programming Language with Steve Kinney | FEM | Frontend Masters
+https://frontendmasters.com/courses/customize-vs-code/ | 18 Visual Studio Code Course | VS Code Customization | Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/networking-streams/ | 19 Learn Networking and Node.js Streams with Substack | Frontend Masters
+https://frontendmasters.com/courses/linting-asts/ | 20 Learn Code Transformation and Linting with Abstract Syntax Trees (ASTs) | Frontend Masters
+https://frontendmasters.com/courses/modern-seo/ | 21 Search Engine Optimization Course | Master SEO | Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/open-source/ | 22 Learn to Publish an Open Source JS Library | Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/hard-parts-ui-dev/ | 23 Unlock Advanced UI Development Techniques with "The Hard Parts of UI Development" Course | Deep-Dive into UI Frameworks | Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/device-web-apis/ | 24 A Tour of Web Capabilities | From Basic to Advanced Browser APIs | Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/web-app-performance/ | 25 Web App Performance Essentials | Learn Optimization Techniques | Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-apps/ | 26 Comprehensive Guide to Vanilla JavaScript | Build Efficient Web Apps | Frontend Masters | Frontend Masters
