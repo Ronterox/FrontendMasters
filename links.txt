@@ -21,3 +21,6 @@ https://frontendmasters.com/courses/hard-parts-ui-dev/ | 23 Unlock Advanced UI D
 https://frontendmasters.com/courses/device-web-apis/ | 24 A Tour of Web Capabilities | From Basic to Advanced Browser APIs | Frontend Masters | Frontend Masters
 https://frontendmasters.com/courses/web-app-performance/ | 25 Web App Performance Essentials | Learn Optimization Techniques | Frontend Masters | Frontend Masters
 https://frontendmasters.com/courses/vanilla-js-apps/ | 26 Comprehensive Guide to Vanilla JavaScript | Build Efficient Web Apps | Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/getting-a-job-v2/
+https://frontendmasters.com/courses/arduino-javascript/
+https://frontendmasters.com/courses/product-management/
